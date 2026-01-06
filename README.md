@@ -39,8 +39,21 @@ Hannah,21,87,6
 Ian,22,80,5
 Julia,18,89,7
 
+```
+
 ## Installation
-```bash
+bash
 git clone https://github.com/nschulz883/csv-json-data-visualiser.git
 cd csv-json-data-visualiser
 pip install -r requirements.txt
+
+
+## Usage
+
+After installing the project dependencies, follow these steps to use the script:
+
+1. **Run the program**:
+
+```bash
+python main.py
+Enter a filename (.csv or .json): sample_data.csv
