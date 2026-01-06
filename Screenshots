@@ -1,1 +1,16 @@
 
+## Screenshots
+
+Here are example outputs from running the project using `sample_data.csv`:
+
+### 1️⃣ Bar Chart of Numeric Columns
+![Bar Chart](screenshots/bar_chart.png)
+> Shows the numeric columns (`Age`, `Score`, `Hours_Studied`) for each row in a bar chart.
+
+### 2️⃣ Histograms of Numeric Columns
+![Histogram](screenshots/histogram.png)
+> Displays the distribution of values for each numeric column in the dataset.
+
+### 3️⃣ Summary Statistics
+![Summary Statistics](screenshots/summary.png)
+> Shows descriptive statistics such as mean, min, max, and standard deviation for numeric columns.
