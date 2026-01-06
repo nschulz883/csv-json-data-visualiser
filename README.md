@@ -42,11 +42,11 @@ Julia,18,89,7
 ```
 
 ## Installation
-bash
+```bash
 git clone https://github.com/nschulz883/csv-json-data-visualiser.git
 cd csv-json-data-visualiser
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
