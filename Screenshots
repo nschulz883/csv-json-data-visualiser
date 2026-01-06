@@ -3,14 +3,11 @@
 
 Here are example outputs from running the project using `sample_data.csv`:
 
-### 1️⃣ Bar Chart of Numeric Columns
-![Bar Chart](screenshots/bar_chart.png)
-> Shows the numeric columns (`Age`, `Score`, `Hours_Studied`) for each row in a bar chart.
+### Bar Chart
+![Bar Chart](https://github.com/nschulz883/csv-json-data-visualiser/raw/main/screenshots/bar_chart.png)
 
-### 2️⃣ Histograms of Numeric Columns
-![Histogram](screenshots/histogram.png)
-> Displays the distribution of values for each numeric column in the dataset.
+### Histogram
+![Histogram](https://github.com/nschulz883/csv-json-data-visualiser/raw/main/screenshots/histogram.png)
 
-### 3️⃣ Summary Statistics
-![Summary Statistics](screenshots/summary.png)
-> Shows descriptive statistics such as mean, min, max, and standard deviation for numeric columns.
+### Summary Statistics
+![Summary Statistics](https://github.com/nschulz883/csv-json-data-visualiser/raw/main/screenshots/summary.png)
