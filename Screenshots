@@ -1,7 +1,8 @@
 
 ## Screenshots
+Example charts and summary outputs from running the data visualization project.
 
-Here are example outputs from running the project using `sample_data.csv`:
+
 
 ### Bar Chart
 ![Bar Chart](https://github.com/nschulz883/csv-json-data-visualiser/raw/main/screenshots/bar_chart.png)
@@ -11,3 +12,4 @@ Here are example outputs from running the project using `sample_data.csv`:
 
 ### Summary Statistics
 ![Summary Statistics](https://github.com/nschulz883/csv-json-data-visualiser/raw/main/screenshots/summary.png)
+
