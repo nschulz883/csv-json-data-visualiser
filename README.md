@@ -23,6 +23,22 @@ It allows users to load CSV or JSON datasets, inspect the data, and automaticall
 - pandas
 - matplotlib
 
+## Sample Data
+A small CSV file `sample_data.csv` is included for testing. Example content:
+
+```csv
+Name,Age,Score,Hours_Studied
+Alice,18,85,5
+Bob,19,90,7
+Charlie,20,78,6
+Diana,21,88,8
+Ethan,22,92,4
+Fiona,19,81,3
+George,20,95,9
+Hannah,21,87,6
+Ian,22,80,5
+Julia,18,89,7
+
 ## Installation
 ```bash
 git clone https://github.com/nschulz883/csv-json-data-visualiser.git
